@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.ef4ec07c.js",
-    "static/js/787.9cd3d4e8.chunk.js": "/static/js/787.9cd3d4e8.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.ef4ec07c.js.map": "/static/js/main.ef4ec07c.js.map",
-    "787.9cd3d4e8.chunk.js.map": "/static/js/787.9cd3d4e8.chunk.js.map"
+    "main.css": "/depot.cash/static/css/main.073c9b0a.css",
+    "main.js": "/depot.cash/static/js/main.79fe7942.js",
+    "static/js/787.9cd3d4e8.chunk.js": "/depot.cash/static/js/787.9cd3d4e8.chunk.js",
+    "static/media/logo.svg": "/depot.cash/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/depot.cash/index.html",
+    "main.073c9b0a.css.map": "/depot.cash/static/css/main.073c9b0a.css.map",
+    "main.79fe7942.js.map": "/depot.cash/static/js/main.79fe7942.js.map",
+    "787.9cd3d4e8.chunk.js.map": "/depot.cash/static/js/787.9cd3d4e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ef4ec07c.js"
+    "static/js/main.79fe7942.js"
   ]
 }
